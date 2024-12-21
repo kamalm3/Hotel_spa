@@ -1,6 +1,12 @@
 # Hotel SPA Application
 
-Displays a list of hotels with essential details.
+Frontend Developer Test: Hotel SPA
+
+## Overview
+Your task is to create a single-page application (SPA) using React and TypeScript. The
+application will fetch and display hotel information provided by a backend API. This exercise is
+designed to assess your ability to build a basic functional frontend application, focusing on the
+use of React, TypeScript, and simple design principles.
 
 ## Prerequisites
 
