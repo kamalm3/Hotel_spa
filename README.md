@@ -16,10 +16,10 @@ Before running the application, make sure you have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ## Setting up the Application
-### 'nvm install 18'
-### 'nvm use 18'
-### ' npm install -g vite'
-### 'npm install vite --save-dev'
+### `nvm install 18`
+### `nvm use 18`
+### `npm install -g vite`
+### `npm install vite --save-dev`
 
 Starts the development server.
 
@@ -30,4 +30,4 @@ Builds the application for production.
 ### `npm run lint`
 
 Runs the linter to check for code issues.
-### 'npm run dev'
+### `npm run dev`
