@@ -15,9 +15,11 @@ Before running the application, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 16 or higher recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-## Running the Application
-
-### `npm run dev`
+## Setting up the Application
+### 'nvm install 18'
+### 'nvm use 18'
+### ' npm install -g vite'
+### 'npm install vite --save-dev'
 
 Starts the development server.
 
@@ -28,3 +30,4 @@ Builds the application for production.
 ### `npm run lint`
 
 Runs the linter to check for code issues.
+### 'npm run dev'
